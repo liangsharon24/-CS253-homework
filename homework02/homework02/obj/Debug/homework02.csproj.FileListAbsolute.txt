@@ -1,0 +1,9 @@
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\bin\Debug\homework02.exe.config
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\obj\Debug\homework02.csprojResolveAssemblyReference.cache
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\obj\Debug\homework02.Form1.resources
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\obj\Debug\homework02.Properties.Resources.resources
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\obj\Debug\homework02.csproj.GenerateResource.Cache
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\bin\Debug\homework02.exe
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\bin\Debug\homework02.pdb
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\obj\Debug\homework02.exe
+c:\users\lingru\documents\visual studio 2015\Projects\homework02\homework02\obj\Debug\homework02.pdb

@@ -1,0 +1,6 @@
+c:\users\lingru\documents\visual studio 2015\Projects\[CS253]2015-06-07\Homework01\bin\Debug\Homework01.exe.config
+c:\users\lingru\documents\visual studio 2015\Projects\[CS253]2015-06-07\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+c:\users\lingru\documents\visual studio 2015\Projects\[CS253]2015-06-07\Homework01\bin\Debug\Homework01.exe
+c:\users\lingru\documents\visual studio 2015\Projects\[CS253]2015-06-07\Homework01\bin\Debug\Homework01.pdb
+c:\users\lingru\documents\visual studio 2015\Projects\[CS253]2015-06-07\Homework01\obj\Debug\Homework01.exe
+c:\users\lingru\documents\visual studio 2015\Projects\[CS253]2015-06-07\Homework01\obj\Debug\Homework01.pdb
