@@ -4,3 +4,9 @@ c:\users\lingru\documents\visual studio 2015\Projects\homework03\homework03\bin\
 c:\users\lingru\documents\visual studio 2015\Projects\homework03\homework03\bin\Debug\homework03.pdb
 c:\users\lingru\documents\visual studio 2015\Projects\homework03\homework03\obj\Debug\homework03.exe
 c:\users\lingru\documents\visual studio 2015\Projects\homework03\homework03\obj\Debug\homework03.pdb
+C:\Users\lingru\Desktop\[CS253]homework\homework03\homework03\bin\Debug\homework03.exe.config
+C:\Users\lingru\Desktop\[CS253]homework\homework03\homework03\obj\Debug\homework03.exe
+C:\Users\lingru\Desktop\[CS253]homework\homework03\homework03\obj\Debug\homework03.pdb
+C:\Users\lingru\Desktop\[CS253]homework\homework03\homework03\bin\Debug\homework03.exe
+C:\Users\lingru\Desktop\[CS253]homework\homework03\homework03\bin\Debug\homework03.pdb
+C:\Users\lingru\Desktop\[CS253]homework\homework03\homework03\obj\Debug\homework03.csprojResolveAssemblyReference.cache

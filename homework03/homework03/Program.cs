@@ -25,7 +25,7 @@ namespace homework03
         public static int GetGuessGender()
         {
             Random random = new Random();
-            return random.Next(0, 1);
+            return random.Next(0, 2);
         }
 
         public static void ShowGuessMessage(string name, int gender)
